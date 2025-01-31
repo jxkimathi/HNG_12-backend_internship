@@ -39,7 +39,6 @@ Here are the projects related to the course:
 |---------|---------|------------|--------|
 | Stage 0 | Task 1  | [Backend API Development](./basic_api/) | Completed |
 
-
 ## Conclusion
 
 I look forward to completing all the way to stage 10 of the HNG Backend Internship.
