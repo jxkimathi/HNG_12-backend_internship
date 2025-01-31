@@ -1,0 +1,22 @@
+{
+  "name": "hng_12-backend_internship",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "API Integration"
+  ],
+  "author": "Jude Kimathi",
+  "license": "MIT",
+  "description": "A fast paced boot camp for digital learning to gain backend development skills.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
